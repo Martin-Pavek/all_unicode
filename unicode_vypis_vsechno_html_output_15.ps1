@@ -1,5 +1,4 @@
 ﻿cls
-# show Unicone 16-bit
 
 Clear-Variable out_1,min,max,file,radek,znaku_na_radku,velikost_fontu,pocitadlo_1,aa,zapsano_posledni_tr -ErrorAction SilentlyContinue
 
