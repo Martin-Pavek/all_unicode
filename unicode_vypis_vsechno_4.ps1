@@ -1,5 +1,4 @@
 ﻿cls
-# show Unicone 16-bit
 
 Clear-Variable out_1, uni_1, radek, aa -ErrorAction SilentlyContinue
 
