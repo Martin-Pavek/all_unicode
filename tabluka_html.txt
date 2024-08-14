@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<body>
+<table>
+
+ <tr>
+  <th>1</th>
+  <th>2</th>
+  <th>3</th>
+ </tr>
+
+ <tr>
+  <th>11</th>
+  <th>22</th>
+  <th>33</th>
+ </tr>
+
+ <tr>
+  <th>111</th>
+  <th>222</th>
+  <th>333</th>
+ </tr>
+
+</table>
+</body>
+</html>
